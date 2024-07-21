@@ -30,10 +30,6 @@
    ---
    >王者荣耀青天大老爷
     >>hahaah
-    ```c++
-#include<iostream>
-
-```
 
 # 表格
  
@@ -42,7 +38,8 @@
 陈奎|猪突猛进|100kg
 皮佳伟|重拳出击|10kg
 
-# 超链接 陈奎的王者荣耀账号：[pornhub](https://www.bilibili.com "点击开干")
+# 超链接 
+陈奎的王者荣耀账号：[pornhub](https://www.bilibili.com "点击开干")
 
 
 
